@@ -1,5 +1,5 @@
-# Jason Koan
-# ID Number: 1000693638
+# USB-Port
+# ID Number:
 # July 24th 2017
 # CSE 4340 Lab 2 Wifi Summer 2017
 
